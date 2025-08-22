@@ -1,0 +1,19 @@
+.odd-number {
+  background-color: rgb(254, 204, 213);
+  font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#seconde-elm {
+  color: rgb(91, 169, 238);
+  font-size: 36px;
+}
+
+.adjust-font {
+  font-size: 24px;
+}
+
+.adjust-font#forth-elm {
+  background-color: rgb(158, 239, 158);
+  font-size: 24px;
+  font-weight: bold;
+}
